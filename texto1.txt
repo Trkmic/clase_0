@@ -2,5 +2,8 @@ Hola git!
 
 git init = creamos repositorio
 git status = vemos info del repositorio
-git addd archivo = pasar archivo al area a staging area 
+git add archivo = pasar archivo al area a staging area 
 git commit -m "un mensaje representativo"
+git push origin master = Sube los commits al remoto.
+git pull origin master = Trae los commits nuevos del remoto
+git clone origin master = clona el archivo tal cual esta en el github
