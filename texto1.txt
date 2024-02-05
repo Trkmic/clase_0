@@ -4,3 +4,4 @@ git init = creamos repositorio
 git status = vemos info del repositorio
 git addd archivo = pasar archivo al area a staging area 
 git commit -m "un mensaje representativo"
+git push origin master = Sube los commits al remoto.
