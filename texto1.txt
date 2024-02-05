@@ -1,0 +1,5 @@
+Hola git!
+
+git init = creamos repositorio
+git status = vemos info del repositorio
+git addd archivo = pasar archivo al area a staging area
